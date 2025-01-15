@@ -15,6 +15,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "antd": "^5.23.1",
     "gatsby": "^5.14.0",
     "gatsby-plugin-image": "^3.14.0",
     "gatsby-plugin-sharp": "^5.14.0",
