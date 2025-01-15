@@ -33,3 +33,17 @@ A global css file is in `src/layouts/gloable.less`
 ## Layout
 
 A global layout file is in `src/layouts/index.tsx`
+
+# Format on save
+
+- Format On Save
+- CMD + SHIFT + P
+
+```
+// Set the default
+"editor.formatOnSave": false,
+// Enable per-language
+"[javascript]": {
+    "editor.formatOnSave": true
+}
+```
