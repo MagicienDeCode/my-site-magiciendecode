@@ -3,6 +3,9 @@ import './index.less'
 import './global.less'
 import { Helmet } from 'react-helmet'
 import STAR from '../images/star.png'
+import { Layout } from 'antd'
+
+const { Header, Content, Footer } = Layout
 
 const App = ({ children }) => {
   return (
@@ -19,9 +22,17 @@ const App = ({ children }) => {
       >
         <link rel="icon" href={STAR} />
       </Helmet>
-      <div>
-        <div>{children}</div>
-      </div>
+      <Layout>
+        <Header className="layout-header">
+          <div>MyHeader</div>
+        </Header>
+        <Content className="layout-content">
+          <div>{children}</div>
+        </Content>
+        <Footer className="layout-footer">
+          <div>MyFooter</div>
+        </Footer>
+      </Layout>
     </div>
   )
 }
