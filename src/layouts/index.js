@@ -4,6 +4,7 @@ import './global.less'
 import { Helmet } from 'react-helmet'
 import STAR from '../images/star.png'
 import { Layout } from 'antd'
+import MyFooter from '../components/footer/footer'
 
 const { Header, Content, Footer } = Layout
 
@@ -30,7 +31,7 @@ const App = ({ children }) => {
           <div>{children}</div>
         </Content>
         <Footer className="layout-footer">
-          <div>MyFooter</div>
+          <MyFooter />
         </Footer>
       </Layout>
     </div>
