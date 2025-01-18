@@ -5,6 +5,7 @@ import { Helmet } from 'react-helmet'
 import STAR from '../images/star.png'
 import { Layout } from 'antd'
 import MyFooter from '../components/footer/footer'
+import MyHeader from '../components/header/header'
 
 const { Header, Content, Footer } = Layout
 
@@ -25,7 +26,7 @@ const App = ({ children }) => {
       </Helmet>
       <Layout>
         <Header className="layout-header">
-          <div>MyHeader</div>
+          <MyHeader />
         </Header>
         <Content className="layout-content">
           <div>{children}</div>
