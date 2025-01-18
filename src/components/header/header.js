@@ -110,7 +110,7 @@ const items = [
 
 const items_800 = [
   getItem(
-    <Link to="/resume" className="decoration-none">
+    <Link to="/resume" className="decoration-none none-450">
       <span className="menu-titles ant-menu-title-content">Resume</span>
     </Link>,
     '1',
