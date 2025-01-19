@@ -6,6 +6,7 @@ import STAR from '../images/star.png'
 import { Layout } from 'antd'
 import MyFooter from '../components/footer/footer'
 import MyHeader from '../components/header/header'
+import { Flex } from 'antd'
 
 const { Header, Content, Footer } = Layout
 
@@ -26,10 +27,18 @@ const App = ({ children }) => {
       </Helmet>
       <Layout>
         <Header className="layout-header">
-          <MyHeader />
+          <Flex align="center" justify="center">
+            <Flex align="center" className="flex-content">
+              <MyHeader />
+            </Flex>
+          </Flex>
         </Header>
         <Content className="layout-content">
-          <div>{children}</div>
+          <Flex align="center" justify="center">
+            <Flex align="center" className="flex-content main-content">
+              {children}
+            </Flex>
+          </Flex>
         </Content>
         <Footer className="layout-footer">
           <MyFooter />

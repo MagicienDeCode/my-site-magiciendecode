@@ -141,33 +141,33 @@ const items_800 = [
 
 const MyHeader = () => {
   return (
-    <Flex align="center" justify="center">
-      <Flex align="center" className="header-flex">
-        <Row className="header-row" align="middle">
-          <Col flex={1}>
-            <div className="test">
-              <img className="header-flex-img" src="logo4.png" />
-            </div>
-          </Col>
-          <Col flex={4}>
-            <Menu
-              mode="horizontal"
-              selectable={false}
-              items={items}
-              triggerSubMenuAction={'hover'}
-              className="header-menu"
-            />
-            <Menu
-              mode="horizontal"
-              className="header-menu-800"
-              selectable={false}
-              items={items_800}
-              triggerSubMenuAction={'hover'}
-            />
-          </Col>
-        </Row>
-      </Flex>
-    </Flex>
+    <Row className="header-row" align="middle">
+      <Col flex={1}>
+        <div className="test">
+          <StaticImage
+            alt="logo"
+            src="../../images/logo_bks.png"
+            className="header-flex-img"
+          />
+        </div>
+      </Col>
+      <Col flex={4}>
+        <Menu
+          mode="horizontal"
+          selectable={false}
+          items={items}
+          triggerSubMenuAction={'hover'}
+          className="header-menu"
+        />
+        <Menu
+          mode="horizontal"
+          className="header-menu-800"
+          selectable={false}
+          items={items_800}
+          triggerSubMenuAction={'hover'}
+        />
+      </Col>
+    </Row>
   )
 }
 export default MyHeader

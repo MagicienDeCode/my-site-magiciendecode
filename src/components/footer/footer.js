@@ -1,42 +1,92 @@
 import * as React from 'react'
 import './footer.less'
 import { Row, Flex } from 'antd'
-import FooterDiv from './footer-div'
+import { StaticImage } from 'gatsby-plugin-image'
 
 const MyFooter = () => {
   return (
     <div>
       <Flex justify="center" wrap="wrap">
-        <FooterDiv
-          href="https://www.linkedin.com/in/xiang-li-3346b512a/"
-          src="linkedin-w.png"
-          spanText="LINKEDIN"
-        />
-        <FooterDiv
-          href="https://github.com/MagicienDeCode"
-          src="github-w.png"
-          spanText="GITHUB"
-        />
-        <FooterDiv
-          href="https://www.youtube.com/channel/UCERe5JqcmPtyo3dzX94by1g?sub_confirmation=1"
-          src="youtube-w.png"
-          spanText="YOUTUBE"
-        />
-        <FooterDiv
-          href="https://space.bilibili.com/520811931"
-          src="bilibili-w.png"
-          spanText="BILIBILI"
-        />
-        <FooterDiv
-          href="https://www.ixigua.com/home/105169725727/"
-          src="xigua-w.png"
-          spanText="XIGUA"
-        />
-        <FooterDiv
-          href="https://leetcode.com/MagicienDeCode/"
-          src="leetcode-w.png"
-          spanText="LEETCODE"
-        />
+        <div className="footer-div">
+          <a
+            target="_blank"
+            href="https://www.linkedin.com/in/xiang-li-3346b512a/"
+            rel="noopener noreferrer"
+          >
+            <Flex justify="center" align="center">
+              <StaticImage
+                alt="logo"
+                src="../../images/linkedin-w.png"
+                className="footer-div-img"
+              />
+              <span className="footer-div-span">LINKEDIN</span>
+            </Flex>
+          </a>
+        </div>
+        <div className="footer-div">
+          <a
+            target="_blank"
+            href="https://github.com/MagicienDeCode"
+            rel="noopener noreferrer"
+          >
+            <Flex justify="center" align="center">
+              <StaticImage
+                alt="logo"
+                src="../../images/github-w.png"
+                className="footer-div-img"
+              />
+              <span className="footer-div-span">GITHUB</span>
+            </Flex>
+          </a>
+        </div>
+        <div className="footer-div">
+          <a
+            target="_blank"
+            href="https://www.youtube.com/channel/UCERe5JqcmPtyo3dzX94by1g?sub_confirmation=1"
+            rel="noopener noreferrer"
+          >
+            <Flex justify="center" align="center">
+              <StaticImage
+                alt="logo"
+                src="../../images/youtube-w.png"
+                className="footer-div-img"
+              />
+              <span className="footer-div-span">YOUTUBE</span>
+            </Flex>
+          </a>
+        </div>
+        <div className="footer-div">
+          <a
+            target="_blank"
+            href="https://space.bilibili.com/520811931"
+            rel="noopener noreferrer"
+          >
+            <Flex justify="center" align="center">
+              <StaticImage
+                alt="logo"
+                src="../../images/bilibili-w.png"
+                className="footer-div-img"
+              />
+              <span className="footer-div-span">BILIBILI</span>
+            </Flex>
+          </a>
+        </div>
+        <div className="footer-div">
+          <a
+            target="_blank"
+            href="https://leetcode.com/MagicienDeCode/"
+            rel="noopener noreferrer"
+          >
+            <Flex justify="center" align="center">
+              <StaticImage
+                alt="logo"
+                src="../../images/leetcode-w.png"
+                className="footer-div-img"
+              />
+              <span className="footer-div-span">LEETCODE</span>
+            </Flex>
+          </a>
+        </div>
       </Flex>
       <Row justify="center">
         <div className="copyright">
