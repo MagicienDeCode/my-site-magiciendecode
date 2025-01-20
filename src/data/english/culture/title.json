@@ -1,0 +1,45 @@
+{
+  "type": "english",
+  "children": [
+    {
+      "title": "Beginning of Autumn 立秋",
+      "page": "english/beginning-of-autumn",
+      "creationDate": "2020-12-06"
+    },
+    {
+      "title": "Beginning of Spring 立春",
+      "page": "english/beginning-of-spring",
+      "creationDate": "2020-12-06"
+    },
+    {
+      "title": "Beginning of Summer 立夏",
+      "page": "english/beginning-of-summer",
+      "creationDate": "2020-12-06"
+    },
+    {
+      "title": "Pure Brightness 清明",
+      "page": "english/pure-brightness",
+      "creationDate": "2020-12-06"
+    },
+    {
+      "title": "Grain in Beard 芒种",
+      "page": "english/grain-in-beard",
+      "creationDate": "2020-12-06"
+    },
+    {
+      "title": "Rain Water 雨水",
+      "page": "english/rain-water",
+      "creationDate": "2020-12-06"
+    },
+    {
+      "title": "Summer Solstice 夏至",
+      "page": "english/summer-solstice",
+      "creationDate": "2020-12-06"
+    },
+    {
+      "title": "Winter Solstice 冬至",
+      "page": "english/winter-solstice",
+      "creationDate": "2020-12-06"
+    }
+  ]
+}

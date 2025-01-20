@@ -1,0 +1,20 @@
+{
+  "type": "java",
+  "children": [
+    {
+      "title": "LeetCode Solution Java/Kotlin",
+      "page": "java/leet-code",
+      "creationDate": "2019-01-01"
+    },
+    {
+      "title": "虐杀面试者的Java基本类型和IntegerCache",
+      "page": "java/cached-integer",
+      "creationDate": "2020-04-09"
+    },
+    {
+      "title": "值传递or引用传递之java与kotlin传参对比",
+      "page": "java/passby-value-or-reference",
+      "creationDate": "2020-04-19"
+    }
+  ]
+}

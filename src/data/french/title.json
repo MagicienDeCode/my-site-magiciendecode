@@ -1,0 +1,15 @@
+{
+  "type": "french",
+  "children": [
+    {
+      "title": "法语单词",
+      "page": "french/words",
+      "creationDate": "2021-01-03"
+    },
+    {
+      "title": "Code de la route",
+      "page": "french/code-de-la-route",
+      "creationDate": "2024-07-06"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+---
+path: '/book/lart-de-se-gacher-la-vie'
+title: "L'art de se gâcher la vie"
+---
+
+# L'art de se gâcher la vie
+
+- 1. Se gâcher la vie est un droit inaliénable mais bien inutile.
+- 2. S’entêter sans résultat; se tracasser inutilement; croire à l’impossible; rester assis sur ses idées sans les remettre en question; répéter encore et encore les mêmes comportements sans prendre en compte leur inefficacité: on se gâche la vie parce qu’on raisonne mal, parce qu’on ne change rien ou parce qu’on agit de façon inappropriée.
+- 3. Faut-il continuer ou abandonner? Comment sortir de son enfermement? Jusqu’où rester fidèle à soi-même? Quand faut-il renoncer à s’acharner? Comment savoir si la persévérance sera mortifère ou fructueuse? Ce livre propose d’examiner l’art de bien vivre sous un angle légèrement provocant, en mettant en lumière les mécanismes aussi ingénieux que biscornus que nous utilisons, souvent à notre insu, pour nous gâcher la vie.
+- 4. On n’arrive pas à prendre du recul, on reste assis sur ses convictions, on ne comprend pas, on se décourage, accroché à soi-même, hors du temps, hors du vrai, hors du réel.
+- 5. **Il faut accepter l’imperfection de la vie, des autres et de soi-même, ainsi que la finitude de toute chose et la solitude existentielle.** Je suis persuadée que ce temps de respiration est indispensable pour des solutions.
+- 6. **Il y est question de prendre ses responsabilités, de développer sa puissance et de donner le sens que l’on souhaite à sa vie.**
+- 7. On peut s’obstiner pour: (a) une idée à laquelle on croit sans la vérifier: on raisonne mal; (b) une position psychique dont on ne veut pas déroger même si elle est inconfortable: on fait du < sur place >; (c) un comportement qui ne mène pas au but visé mais que l’on répète en dépit de toute logique: on s’acharne.
+- 8. On reconnaît facilement la paille dans l’oeil du voisin obtus, tellement aberrante qu’elle nous empêche d’examiner la poutre qui nous aveugle.
+- 9. On juge parfois sans vraiment savoir, on critique sans comprendre, on adhère sans réfléchir…
+- 10. On croit volontiers ce que les gens qu’on aime nous affirment.
+- 11. On a tendance à interpréter les faits selons nos besoins en leur accordant une importance sélective, pour ensuite les réaménager en créant une cohérence qui nous convient.
+- 12. Les croyances ont une puissance folle. Elles ont autant le pouvoir de guérir que de détruire.
+- 13. Mais l’homme, par nature égocentrique, se place souvent au centre de l’interprétation et croit qu’on lui en veut ou qu’on se moque de lui, alors qu’il n’en est rien.
+- 14. Je fais semblant d’être heureuse alors que je ne le suis pas vraiment.
+- 15. **Se déprécier par comparaison. C’est une histoire de pré et d’herbe verte.**
+- 16. Vivre n’est ni facile, ni réjouissant et tous les adultes, au fond d’eux-mêmes, le savent intuitivement: le bonheur dont on rêve n’est qu’un rêve!
+- 17. Pour les peuples démunis matériellement, l’essentiel est d’avoir la santé, un toit, de la nourriture et la sécurité pour eux et leurs enfants. Le luxe, c’est d’aller à l’école et d’avoir quelque espoir d’évoluer.
+- 18. La tristesse est inévitablement liée à notre faculté d’aimer et de ne pas toujours l’être assez; le découragement, à nos ambitions qui ne se réalisent pas selon nos souhaits. Le chagrin et ses variantes font partie des émotions naturelles de l’homme, mais on nous dit dès l’âge tendre qu’on n’a pas de raison d’être triste et qu’il faut sécher nos larmes.
+- 19. **La colère appartient également à la panoplie des expressions émotives normales. Elle traduit la frustration lorsqu’on n’obtient pas ce qu’on veut, mais aussi l’énervement, ô combien légitime, d’être incompris, de ne pas exister aux yeux de l’autre tel qu’on en a besoin.**
+- 20. La colère et la tristesse ne sont pas des émotions négatives -- sauf lorsqu’elles conduisent à des comportements destructeurs, pour soi ou pour autrui --, ce sont des émotions désagréables.
+- 21. (31) En perte de repères, on fait souvent de mauvais choix, qui préparent les problème suivants. On manque de lucidité, de temps et de clairvoyance. On enchaîne soucis et échecs, alors qu’on ne souhaite qu’une chose: sortir de l’ornière.
+- 22. Quand nous étions petit, c’était vrai, notre bonheur dépendait de nos parents et de notre entourage.
+- 23. L’amour inconditionnel n’existe qu’entre une mère et son bébé.
+- 24. N’oublions pas que chacun voit la vie avec ses propres yeux et une attitude gentille sera peut-être perçue par l’autre comme de la mollesse, voire de la bêtise.
+- 25. On ne refera jamais le passé. Ce qui a eu lieu, a eu lieu. Les échecs et les erreurs font partie de la vie.
+- 26. On regrette de ne plus pouvoir vivre une période révolue, on regrette d’avoir perdu un objet qui nous était cher, on regrette un choix qui s'est avéré erroné. Les regrets traduisent une tristesse toujours présente. Ils nous rappellent notre impuissance à revenir sur le passé.
+- 27. Le remords, est un mélange de bonne volonté et de mauvaise foi: désir sincère de refermer les vieilles plaies, envie secrète de se mettre hors jeu.
+- 28. Il est temps de sortir de l’auto-flagellation stérile et de reprendre les rênes de notre vie.
+- 29. **L’origine de ce sentiment permanent de culpabilité, très lié au manque de confiance en soi, plonge ses racines dans l’enfance, largement teintée des attitudes parentales.**
+- 30. Accueillir l’inconnu, c’est s’ouvrir à la vie, l’accepter avec sa part d’imprévu et ses exigences d’adaptation.
+- 31. **On ne savait pas que le Prince n’était pas toujours charmant, ni les amis toujours fiables.**
+- 32. Ce déplaisir inexplicable, c’est le mal de vivre, la dépression, l’anhédonie, le fait de ne pouvoir goûter à ce qui est, à ce que l’on a, à ce qui nous entoure.
+- 33. Quand on croit qu’hier était mieux, on envisage le présent avec dégoût et le futur avec méfiance.
+- 34. Tu sais, ma chérie, quand on regarde sa vie en arrière, la seule chose qui compte vraiment, ce sont tous les petits bonheurs.
+- 35. On ne peut se baser que sur le passé et la réalité du présent, pas sur des espoirs d’évolution, pas sur un futur rêvé. C’est avec le présent tel qu’il est qu’on construit l’avenir, et non avec un avenir désiré qu’on peut bien vivre le présent.
+- 36. Le plus grand obstacle à la vie est l’attente, qui espère demain et néglige aujourd’hui.
+- 37. Si on ne désire rien, on ne souffre pas de l’absence de l’objet de son désir.
+- 38. Le désir fait partie de la vie, il est beau et sain.
+- 39. (87) Il faut apprendre à aimer et au moins goûter sans faire de chichis.
+- 40. Le doute fait partie de l’existence humaine. Il faut avancer malgré le doute.
+- 41. Laisser pourrir une situation revient à s’obstiner dans un aveuglement passif, immobile, vain et souvent dangereux.
+- 42. Aucun être ne peut en sauver un autre. Il faut se sauver soi-même.
+- 43. **Quand tout va mal, quand on est sur sa petite barque dans la tempête, il faut tenir la barre, en adulte. Il ne faut ni paniquer ni abandonner, il faut juste garder le cap, avec volonté et raison. C’est difficile, mais c’est possible. On avance lentement, mais sûrement. On doit traverser l’orage, c’est ce qu’il y a sur notre chemin, c’est risqué, mais c’est la vie.**
+- 44. (103) Leur désir n’a pas disparu, mais ils se sont focalisés sur autre chose pour éviter de penser à la tentation.
+- 45. Si l’intelligence est importante à l’école, elle l’est moins que la maîtrise de soi.
+- 46. Bien sûr, ces expériences ont leurs limites et on peut imaginer de nombreuses autres influences sur le bon développement des enfants, mais ce qu’il est intéressant de retenir, c’est qu’ils avaient acquis **dès leur plus jeune âge la capacité de résister à un plaisir immédiat pour un intérêt plus grand.**
+- 47. La maîtrise de soi, la base de l’autodiscipline.
+- 48. Rien de tel qu’un petit tour de shopping pour masquer sa déprime ou calmer ses angoisses.
+- 49. **Le monde du travail se trouve devant une génération qui ne supporte pas la critique et qu’il faut sans cesse rassurer, ce qui n’est pas le meilleur moyen pour réussir dans l’entreprise, où la capacité à relever des défis, à reconnaître et rectifier ses erreurs et à se montrer tenace est essentielle.**
+- 50. Confier ses réflexions à son journal intime est une autre manière de calmer et d’apaiser la tempête qui nous agite.
+- 51. Regarde vers l’avenir, regarde vers le possible, regarde vers l’amour.
+- 52. On agit souvent impulsivement, comme on l’a toujours fait, mais on n’est plus des enfant!
+- 53. Pourquoi s’évertuer à se faire aimer de personnes qui ne nous apprécient guère?
+- 54. Pourquoi éternellement renouveler le jeu, si on n’a pas la chandelle?
+- 55. **Dans le cadre de l’éducation des enfants, répéter cent fois la même chose en vain est une excellente source de tension et d’usure.**
+- 56. Il est normal d’apprécier des remerciements ou une certaine réciprocité, mais il serait plus sage de les considérer comme une cerise sur le gâteau. Parce que la réciprocité n’est pas une obligation, loin de là, et encore la symétrie.
+- 57. Le bonheur n’est jamais au rendez-vous. L’ennui aussi.
+- 58. On est adulte, mais on n’a pas encore vraiment renoncé à plaire à ses parents.
+- 59. La tristesse, la mélancolie, le deuil, le découragement, la nervosité, le stress, l’anxiété, l’affolement et de nombreuses autres manifestations de notre humanité sensible sont des états émotionnels normaux.
+- 60. A titre d’exemple, notre cerveau est efficace pour prendre des décisions à court terme, de type << problème-solution>>.
+- 61. Le rationnel, c’est le tronc de l’arbre, l’émotionnel en sont les feuilles.
+- 62. Cesser de se gâcher la vie est une question de mentalité. Pour jouir d’une vie agréable et accomplie, l’état d’esprit est essentiel.
+- 63. **Changer sa vision du monde requiert une grande lucidité, beaucoup d’honnêteté et un jugement implacable sur soi-même. Il faut cesser de se leurrer, cesser de se plaindre et accepter la réalité.**
+- 64. **Un moteur de ténacité et d’ascension bien nécessaire pour explorer et progresser dans le cours d’une vie d’adulte.**
+- 65. L’acceptation de l’imperfection n’est autre finalement que l’acceptation de notre frustration à trouver l’introuvable, à changer l’inchangeable, l’acceptation de notre impuissance à asservir ce et ceux qui nous résistent.
+- 66. Accepter l’imperfection, c’est aussi accepter qu’il n’y ait pas de réponses.
+- 67. (197)Pourquoi continuer à agir d’une manière qui ne produit pas le résultat escompté?
+- 68. Peut-être qu’en votre for intérieur, vous savez que ça ne marche pas, qu’il est vain d’insister, mais vous le faites quand même… Pourquoi?
+- 69. Quel est votre intérêt de maintenir une idée, une attitude ou une démarche qui n’amène pas au bien-être? Il doit bien y avoir quelque avantage?
+- 70. ? << Stricte justice, grande injustice >> dit le proverbe, parce que le système judiciaire ne panse pas toutes les plaies, ce n’est pas son rôle.
+- 71. Au coeur des conflits interpersonnels, la frustration liée à l’incompréhension et à la trahison est toujours très douloureuse.
+- 72. **Personne n’est fiable à cent pourcents. Tout homme peut se tromper ou commettre une erreur, mais on peut croire en sa bonne volonté et en sa sincérité. Avec l’expérience de la vie, votre flair s’est aiguisé.**
+- 73. Ce qui fait souffrir, c’est le refus de la vie, telle qu’elle est. Pleurer et puis renaître, c’est cesser de souffrir d’un rêve qui nous échappe, d’un impossible à atteindre ou d’un hier à jamais perdu.
+- 74. Au fil de la vie, on doit bien accepter les limites que notre corps impose, les contraintes de la société, les responsabilités qu’on a prises, les lois, les règles de bienséance, la liberté de l’autre, etc. Ces limites forment le cadre au sein duquel on est invité à vivre.
+- 75. La seule sagesse qui vaille face à la mort est de vivre le moment présent, sans regret du passé, ni crainte de l’avenir…
+- 76. Admettre sa finitude, c’est consentir à être ici et maintenant, admettre sa condition d’homme et sa fragilité.
+- 77. La solitude existentielle n’a rien à voir avec la solitude du célibat ou celle du solitaire. Que l’on vive en couple, qu’on ait des enfants ou que l’on soit entouré de nombreux amis, on est toujours seul face à sa vie.
+- 78. On doit abandonner l’espoir d’être parfaitement compris ou deviné.
+- 79. On remplace << tu n’es pas logique >> par << je ne comprends pas ton raisonnement >> on écoute autrement.
+- 80. On ne cherche plus à convaincre et on commence à écouter vraiment.
+- 81. Accepter sa solitude existentielle, c’est comprendre profondément que le club n’existe pas et qu’on est tous aussi seuls les uns que les autres.
+- 82. La solitude existentielle, vous l’avez compris, ne concerne pas l’amour, l’amitié ou le vivre ensemble, mais un niveau plus profond: le coeur de l’homme, là où il est seul à la barre, face à l’immense complexité de l’existence.
+- 83. L’acceptation de notre solitude existentielle nous donne la liberté de devenir vraiment l’individu particulier que nous souhaitons être. C’est à la fois vertigineux et merveilleux.
+- 84. (269)**L’angoisse, c’est le déchirement entre hier et demain.**
+- 85. Un âne ne trébuche pas deux fois sur la même pierre.
+- 86. L’émotion est donc difficilement contrôlable, mais peut évoluer en psychothérapie ou avec un sérieux travail sur soi.
+- 87. La réalité: chaque homme a acquis une expérience d’adulte, il a appris comment le monde fonctionne et sait que certaines actions sont dangereuses.
+- 88. (302)L’augmentation de l’individualisme impose à l’adulte une autonomie exigeante.
+- 89. Cesser d’agresser l’autre quand on est frustré en lui faisant porter toute la charge de notre insatisfaction. Aujourd’hui, il est temps d’accepter les limites de nos envies de toute puissance.
+- 90. Il est temps aujourd’hui de tirer des leçons de la vie, des épreuves que l’on a traversées, des tracas que l’on se crée et de prendre son existence à bras-le-corps, autant qu’il soit possible.
+- 91. **Prendre nos responsabilités pour changer ce qui nous nuit et que nous (re) produisons nécessite une maîtrise volontaire et constante. Il faut prendre une vraie décision, lucide et déterminée, mais aussi faire preuve de persévérance et d’une sérieuse autodiscipline.**
+- 92. La volonté “pour”: **c’est une volonté de progression.**
+- 93. La volonté “contre”: **c’est une volonté de résistance.**
+- 94. On se gâche la vie parce qu’on ne supporte pas qu’elle ne corresponde pas à nos voeux. Comme un enfant gâté qui s’ennuie dans sa chambre encombrée, on râle de ne pas avoir le jouet espéré, on ne sait pas choisir parce qu’il y en a trop, on n’ose pas jouer parce qu’on a peur de perdre, trop de jouets tuent le plaisir.
+- 95. On se gâche la vie parce qu’on se connaît mal, on se comprend à peine, on croit qu’on veut, on pense qu’on doit, on a peur d’on ne sait quoi, c’est plus fort que nous, on n’écoute pas son intuition ou son vrai désir.
+- 96. On se gâche la vie parce qu’on a mal et qu’on le cache, on pleure à l’intérieur et on sourit pour qu’on nous aime, on souffre de souffrir, on a honte d’avoir honte, on a peur d’avoir peur, parce qu’on est des hommes si loin de nous-mêmes.

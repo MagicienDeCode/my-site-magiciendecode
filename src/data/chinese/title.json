@@ -1,0 +1,40 @@
+{
+  "type": "chinese",
+  "children": [
+    {
+      "title": "增广贤文",
+      "page": "chinese/zeguangxianwen",
+      "creationDate": "2021-01-03"
+    },
+    {
+      "title": "古诗文-唐",
+      "page": "chinese/gushiwen-tang",
+      "creationDate": "2021-12-29"
+    },
+    {
+      "title": "古诗文-宋",
+      "page": "chinese/gushiwen-song",
+      "creationDate": "2021-12-28"
+    },
+    {
+      "title": "古诗文-其他",
+      "page": "chinese/gushiwen-extra",
+      "creationDate": "2021-12-27"
+    },
+    {
+      "title": "古诗文-风花雪月",
+      "page": "chinese/gushiwen-fenghuaxueyue",
+      "creationDate": "2021-12-27"
+    },
+    {
+      "title": "原神",
+      "page": "chinese/genshin",
+      "creationDate": "2023-10-24"
+    },
+    {
+      "title": "修心",
+      "page": "chinese/xiuxin",
+      "creationDate": "2024-08-01"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "type": "book",
+  "children": [
+    {
+      "title": "Un amour impossible",
+      "page": "book/un-amour-impossible",
+      "creationDate": "2020-04-05"
+    },
+    {
+      "title": "L'art de se gâcher la vie",
+      "page": "book/lart-de-se-gacher-la-vie",
+      "creationDate": "2020-04-06"
+    },
+    {
+      "title": "一切坚固的东西都烟消云散了--现代性体验",
+      "page": "book/yiqiejiangudedongxidouoyanxiaoyunsanle",
+      "creationDate": "2020-04-07"
+    },
+    {
+      "title": "La lumière du petit matin",
+      "page": "book/la-lumière-du-petit-matin",
+      "creationDate": "2021-03-09"
+    },
+    {
+      "title": "Les vestiges du jour",
+      "page": "book/les-vestiges-du-jour",
+      "creationDate": "2021-02-09"
+    },
+    {
+      "title": "La Dame aux camélias",
+      "page": "book/la-dame-aux-camelias",
+      "creationDate": "2021-05-27"
+    },
+    {
+      "title": "风景中的人类",
+      "page": "book/fengjingzhongderenlei",
+      "creationDate": "2023-06-01"
+    },
+    {
+      "title": "爱情基因，如何让爱不伤人",
+      "page": "book/aiqingjiyin",
+      "creationDate": "2023-10-10"
+    },
+    {
+      "title": "心态",
+      "page": "book/xintai", 
+      "creationDate": "2024-04-21"
+    },
+    {
+      "title": "经济学通识",
+      "page": "book/jingjixuetongshi", 
+      "creationDate": "2024-07-03"
+    }
+  ]
+}
