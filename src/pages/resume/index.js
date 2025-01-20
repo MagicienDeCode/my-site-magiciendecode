@@ -11,6 +11,7 @@ import {
   Divider,
   Collapse,
   Affix,
+  FloatButton,
 } from 'antd'
 import { Link } from 'gatsby'
 
@@ -187,7 +188,7 @@ const Index = () => {
                   <h2>LI Xiang</h2>
                   <h3>Full Stack Software Engineer</h3>
                   <h3>Tech Lead</h3>
-                  <h3>Looking for freelance job</h3>
+                  <h3>Looking for part time job</h3>
                 </Col>
                 <Col flex={1} className="basic-info-left-col">
                   <Link to="/" className="decoration-none">
@@ -562,6 +563,7 @@ const Index = () => {
             />
             <br />
           </Col>
+          <FloatButton.BackTop />
         </Row>
       </div>
     </div>
