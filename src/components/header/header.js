@@ -1,6 +1,6 @@
 import * as React from 'react'
 import './header.less'
-import { Menu, Flex, Row, Col, QRCode, Popover, Button } from 'antd'
+import { Menu, Row, Col, QRCode, Popover, Affix } from 'antd'
 import {
   AppstoreAddOutlined,
   FileDoneOutlined,
@@ -108,9 +108,9 @@ const items = [
   ),
 ]
 
-const items_800 = [
+const items_1000 = [
   getItem(
-    <Link to="/resume" className="decoration-none none-450">
+    <Link to="/resume" className="decoration-none">
       <span className="menu-titles ant-menu-title-content">Resume</span>
     </Link>,
     '1',
@@ -142,30 +142,43 @@ const items_800 = [
 const MyHeader = () => {
   return (
     <Row className="header-row" align="middle">
-      <Col flex={1}>
-        <div className="test">
-          <StaticImage
-            alt="logo"
-            src="../../images/logo_bks.png"
-            className="header-flex-img"
-          />
-        </div>
+      <Col flex="none">
+        <Affix offsetTop={0}>
+          <Link to="/">
+            <StaticImage
+              alt="logo"
+              src="../../images/logo_bks.png"
+              className="header-flex-img"
+            />
+          </Link>
+        </Affix>
+        <Affix offsetTop={0}>
+          <Link to="/">
+            <StaticImage
+              alt="logo"
+              src="../../images/logo7.png"
+              className="header-flex-img-mobile"
+            />
+          </Link>
+        </Affix>
       </Col>
-      <Col flex={4}>
-        <Menu
-          mode="horizontal"
-          selectable={false}
-          items={items}
-          triggerSubMenuAction={'hover'}
-          className="header-menu"
-        />
-        <Menu
-          mode="horizontal"
-          className="header-menu-800"
-          selectable={false}
-          items={items_800}
-          triggerSubMenuAction={'hover'}
-        />
+      <Col flex="auto">
+        <Affix offsetTop={0}>
+          <Menu
+            mode="horizontal"
+            selectable={false}
+            items={items}
+            triggerSubMenuAction={'hover'}
+            className="header-menu"
+          />
+          <Menu
+            mode="horizontal"
+            className="header-menu-1000"
+            selectable={false}
+            items={items_1000}
+            triggerSubMenuAction={'hover'}
+          />
+        </Affix>
       </Col>
     </Row>
   )

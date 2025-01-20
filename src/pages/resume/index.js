@@ -10,6 +10,7 @@ import {
   Flex,
   Divider,
   Collapse,
+  Affix,
 } from 'antd'
 import { Link } from 'gatsby'
 
@@ -104,82 +105,81 @@ const Index = () => {
     <div>
       <Breadcrumb
         separator=">"
-        className="pages-breads"
+        className="breads"
         items={[
           {
-            title: (
-              <Link to="/" className="decoration-none">
-                Home
-              </Link>
-            ),
+            title: <Link to="/">Home</Link>,
           },
           {
             title: 'Resume',
           },
         ]}
       />
+
       <div>
         <Row className="pages-row">
-          <Col className="pages-left display-none">
-            <Timeline
-              className="pages-timeline"
-              items={[
-                {
-                  dot: (
-                    <Badge>
-                      <Avatar src={`../icon_resume.png`} size={20} />
-                    </Badge>
-                  ),
-                  color: 'grey',
-                  children: (
-                    <Link to="#basic-info" className="decoration-none">
-                      <span className="pages-line-text">RESUME</span>
-                    </Link>
-                  ),
-                },
-                {
-                  dot: (
-                    <Badge>
-                      <Avatar src={`../tools.png`} size={20} />
-                    </Badge>
-                  ),
-                  color: 'grey',
-                  children: (
-                    <Link to="#skills" className="decoration-none">
-                      <span className="pages-line-text">SKILLS</span>
-                    </Link>
-                  ),
-                },
-                {
-                  dot: (
-                    <Badge>
-                      <Avatar src={`../exp.png`} size={20} />
-                    </Badge>
-                  ),
-                  color: 'grey',
-                  children: (
-                    <Link to="#experience" className="decoration-none">
-                      <span className="pages-line-text">EXPERIENCE</span>
-                    </Link>
-                  ),
-                },
-                {
-                  dot: (
-                    <Badge>
-                      <Avatar src={`../education.png`} size={20} />
-                    </Badge>
-                  ),
-                  color: 'grey',
-                  children: (
-                    <Link to="#education" className="decoration-none">
-                      <span className="pages-line-text">EDUCATION</span>
-                    </Link>
-                  ),
-                },
-              ]}
-            />
+          <Col className="pages-left display-none" span={4}>
+            <Affix offsetTop={120}>
+              <Timeline
+                className="pages-timeline"
+                items={[
+                  {
+                    dot: (
+                      <Badge>
+                        <Avatar src={`../icon_resume.png`} size={20} />
+                      </Badge>
+                    ),
+                    color: 'grey',
+                    children: (
+                      <Link to="#basic-info" className="decoration-none">
+                        <span className="pages-line-text">RESUME</span>
+                      </Link>
+                    ),
+                  },
+                  {
+                    dot: (
+                      <Badge>
+                        <Avatar src={`../tools.png`} size={20} />
+                      </Badge>
+                    ),
+                    color: 'grey',
+                    children: (
+                      <Link to="#skills" className="decoration-none">
+                        <span className="pages-line-text">SKILLS</span>
+                      </Link>
+                    ),
+                  },
+                  {
+                    dot: (
+                      <Badge>
+                        <Avatar src={`../exp.png`} size={20} />
+                      </Badge>
+                    ),
+                    color: 'grey',
+                    children: (
+                      <Link to="#experience" className="decoration-none">
+                        <span className="pages-line-text">EXPERIENCE</span>
+                      </Link>
+                    ),
+                  },
+                  {
+                    dot: (
+                      <Badge>
+                        <Avatar src={`../education.png`} size={20} />
+                      </Badge>
+                    ),
+                    color: 'grey',
+                    children: (
+                      <Link to="#education" className="decoration-none">
+                        <span className="pages-line-text">EDUCATION</span>
+                      </Link>
+                    ),
+                  },
+                ]}
+              />
+            </Affix>
           </Col>
-          <Col className="pages-right">
+          <Col className="pages-right" span={20}>
             <div>
               <h2 id="basic-info">Resume</h2>
               <Row>
