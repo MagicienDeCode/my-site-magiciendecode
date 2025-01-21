@@ -62,7 +62,8 @@ public final class InlineKt {
    public static final List xiangMap(@NotNull Iterable $this$xiangMap, @NotNull Function1 transform) {
       Intrinsics.checkParameterIsNotNull($this$xiangMap, "$this$xiangMap");
       Intrinsics.checkParameterIsNotNull(transform, "transform");
-      ArrayList destination = new ArrayList($this$xiangMap instanceof Collection ? ((Collection)$this$xiangMap).size() : 10);
+      ArrayList destination = 
+      new ArrayList($this$xiangMap instanceof Collection ? ((Collection)$this$xiangMap).size() : 10);
       Iterator var4 = $this$xiangMap.iterator();
 
       while(var4.hasNext()) {
@@ -98,7 +99,8 @@ inline fun <T, R> Iterable<T>.xiangMap(transform: (T) -> R): List<R> {
       System.out.println(var1);
       Iterable $this$xiangMap$iv = (Iterable)testList;
       int $i$f$xiangMap = false;
-      ArrayList destination$iv = new ArrayList($this$xiangMap$iv instanceof Collection ? ((Collection)$this$xiangMap$iv).size() : 10);
+      ArrayList destination$iv = 
+      new ArrayList($this$xiangMap$iv instanceof Collection ? ((Collection)$this$xiangMap$iv).size() : 10);
       Iterator var5 = $this$xiangMap$iv.iterator();
 
       while(var5.hasNext()) {

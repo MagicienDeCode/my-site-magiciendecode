@@ -9,7 +9,7 @@ const { Panel } = Collapse
 
 export default function Example() {
   return (
-    <div>
+    <div className="gushiwen-content">
       <CommonArticleHeader />
       <div className="gushiwen-main">
         <h1>中国古诗文 * 风花雪月</h1>

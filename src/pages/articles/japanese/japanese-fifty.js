@@ -67,7 +67,7 @@ export default function JapaneseFifty({ data }) {
   }
 
   return (
-    <div>
+    <div className="jap-cotent">
       <CommonArticleHeader />
       <Tabs defaultActiveKey="1">
         <TabPane tab="ひらがな" key="1">
