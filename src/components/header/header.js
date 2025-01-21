@@ -144,22 +144,26 @@ const MyHeader = () => {
     <Row className="header-row" align="middle">
       <Col flex="none">
         <Affix offsetTop={0}>
-          <Link to="/">
-            <StaticImage
-              alt="logo"
-              src="../../images/logo_bks.png"
-              className="header-flex-img"
-            />
-          </Link>
+          <div className="desktop">
+            <Link to="/">
+              <StaticImage
+                alt="logo"
+                src="../../images/logo_bks.png"
+                className="header-flex-img"
+              />
+            </Link>
+          </div>
         </Affix>
         <Affix offsetTop={0}>
-          <Link to="/">
-            <StaticImage
-              alt="logo"
-              src="../../images/logo7.png"
-              className="header-flex-img-mobile"
-            />
-          </Link>
+          <div className="mobile">
+            <Link to="/">
+              <StaticImage
+                alt="logo"
+                src="../../images/logo7.png"
+                className="header-flex-img-mobile"
+              />
+            </Link>
+          </div>
         </Affix>
       </Col>
       <Col flex="auto">
