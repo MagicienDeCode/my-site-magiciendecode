@@ -17,7 +17,7 @@ path: '/chinese/xiuxin'
 11. 你什么都想要，注定啊，什么都会没有。你看看那些婚姻幸福的，有家一起回，有饭一起吃，你生病身边有人陪的。
 12. 间归离复归离，借一浮生逃浮生。
 13. 感故人之恩，承旧友之情，追千古之意，环千秋之城。 以上种种，谓之逐月。
-14. 部下の手柄は上司のもの, 上司の失敗は部下の責任。buka no tegara wa joshi no mono，joshi no shippai wa buka no sekinin。
+14. 部下の手柄は上司のもの, 上司の失敗は部下の責任。buka no tegara wa joushi no mono，joushi no shippai wa buka no sekinin。
 15. 爱并非是一种感觉，跟多是彼此的牺牲，彼此的成就，彼此的尊重。
 16. 从心里给出的真心，正义，无畏和同情。
 17. 理想还是存在的，不过没有那么容易实现。
