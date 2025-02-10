@@ -108,6 +108,39 @@ path: '/japanese/words7'
 | 大分（おおいた）   | 大分   | Oita      |
 | 青森（あおもり）   | 青森   | Aomori    |
 | 旭川（あさひかわ） | 旭川   | Asahikawa |
-| 小松（こまつ） | 小松 | Komatsu |
-| 能美（のみ） | 能美 | Nomi |
-| 金沢（かなざわ） | 金泽 | Kanazawa |
+| 小松（こまつ）     | 小松   | Komatsu   |
+| 能美（のみ）       | 能美   | Nomi      |
+| 金沢（かなざわ）   | 金泽   | Kanazawa  |
+
+# 地点
+
+| 日语                                | 中文     | 英语              |
+| ----------------------------------- | -------- | ----------------- |
+| コンビニ                            | 便利店   | Convenience Store |
+| 駅（えき）                          | 车站     | Station           |
+| バス停（バスてい）                  | 公交车站 | Bus Stop          |
+| 空港（くうこう）                    | 机场     | Airport           |
+| ホテル                              | 酒店     | Hotel             |
+| レストラン                          | 餐厅     | Restaurant        |
+| カフェ                              | 咖啡店   | Café              |
+| スーパー                            | 超市     | Supermarket       |
+| デパート                            | 百货商店 | Department Store  |
+| 薬局（やっきょく） / ドラッグストア | 药店     | Pharmacy          |
+| 病院（びょういん）                  | 医院     | Hospital          |
+| 銀行（ぎんこう）                    | 银行     | Bank              |
+| 郵便局（ゆうびんきょく）            | 邮局     | Post Office       |
+| 図書館（としょかん）                | 图书馆   | Library           |
+| 警察署（けいさつしょ）              | 警察局   | Police Station    |
+| 交番（こうばん）                    | 派出所   | Police Box        |
+| 学校（がっこう）                    | 学校     | School            |
+| 大学（だいがく）                    | 大学     | University        |
+| 映画館（えいがかん）                | 电影院   | Movie Theater     |
+| 美術館（びじゅつかん）              | 美术馆   | Art Museum        |
+| 博物館（はくぶつかん）              | 博物馆   | Museum            |
+| 動物園（どうぶつえん）              | 动物园   | Zoo               |
+| 水族館（すいぞくかん）              | 水族馆   | Aquarium          |
+| 公園（こうえん）                    | 公园     | Park              |
+| 神社（じんじゃ）                    | 神社     | Shinto Shrine     |
+| お寺（おてら）                      | 寺庙     | Buddhist Temple   |
+| 温泉（おんせん）                    | 温泉     | Hot Spring        |
+| スポーツジム                        | 健身房   | Gym               |
