@@ -1,5 +1,5 @@
 ---
-path: "/kotlin/transactional"
+path: "/code/transactional"
 title: "@Transactional Kotlin Example 疯狂虐杀面试者的事务"
 ---
 

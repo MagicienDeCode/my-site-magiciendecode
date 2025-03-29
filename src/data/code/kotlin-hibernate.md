@@ -1,5 +1,5 @@
 ---
-path: '/kotlin/kotlin-hibernate'
+path: '/code/kotlin-hibernate'
 ---
 
 # Kotlin Hibernate

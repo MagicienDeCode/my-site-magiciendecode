@@ -1,5 +1,5 @@
 ---
-path: "/java/cached-integer"
+path: "/code/cached-integer"
 title: "虐杀面试者的Java基本类型和IntegerCache"
 ---
 

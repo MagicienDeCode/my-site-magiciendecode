@@ -17,8 +17,7 @@ import bookJson from '../../data/book/title.json'
 import ChineseJson from '../../data/chinese/title.json'
 import englishJson from '../../data/english/title.json'
 import japaneseJson from '../../data/japanese/title.json'
-import javaJson from '../../data/java/title.json'
-import kotlinJson from '../../data/kotlin/title.json'
+import codeJson from '../../data/code/title.json'
 
 import englishCultureJson from '../../data/english/culture/title.json'
 import englishGrammerJson from '../../data/english/grammer/title.json'
@@ -28,8 +27,7 @@ const first5 = [
   ChineseJson.children,
   japaneseJson.children,
   englishJson.children,
-  kotlinJson.children,
-  javaJson.children,
+  codeJson.children,
   bookJson.children,
 ]
   .flat()
@@ -214,8 +212,7 @@ const Index = () => {
               </Divider>
               <Row>
                 <Col span={24}>
-                  <PageLink titles={kotlinJson.children} />
-                  <PageLink titles={javaJson.children} />
+                  <PageLink titles={codeJson.children} />
                 </Col>
               </Row>
               <br />

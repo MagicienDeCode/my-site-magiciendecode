@@ -1,5 +1,5 @@
 ---
-path: "/kotlin/kotlin-for-java-for"
+path: "/code/kotlin-for-java-for"
 title: "Kotlin for vs Java for"
 ---
 

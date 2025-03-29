@@ -1,5 +1,5 @@
 ---
-path: "/kotlin/kotlin-inline"
+path: "/code/kotlin-inline"
 title: "Kotlin inline 关键字 怎么提高效率"
 ---
 

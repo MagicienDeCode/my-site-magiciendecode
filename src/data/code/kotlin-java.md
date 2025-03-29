@@ -1,5 +1,5 @@
 ---
-path: "/kotlin/kotlin-java"
+path: "/code/kotlin-java"
 title: "Kotlin 易与Java混淆的地方"
 ---
 

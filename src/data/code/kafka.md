@@ -1,5 +1,5 @@
 ---
-path: '/kotlin/kafka'
+path: '/code/kafka'
 ---
 
 # Kafka vs RabbitMQ

@@ -50,6 +50,12 @@
       "title": "经济学通识",
       "page": "book/jingjixuetongshi", 
       "creationDate": "2024-07-03"
+    },
+    {
+      "title": "终极算法",
+      "page": "book/zhongjisuanfa", 
+      "creationDate": "2025-03-29"
     }
+    
   ]
 }

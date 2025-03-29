@@ -1,5 +1,5 @@
 ---
-path: "/kotlin/bit-operation"
+path: "/code/bit-operation"
 title: "Bit operation Kotlin/Java 位运算"
 ---
 

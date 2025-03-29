@@ -1,5 +1,5 @@
 ---
-path: "/java/passby-value-or-reference"
+path: "/code/passby-value-or-reference"
 title: "值传递or引用传递之java与kotlin传参对比"
 ---
 

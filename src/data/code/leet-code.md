@@ -1,5 +1,5 @@
 ---
-path: "/java/leet-code"
+path: "/code/leet-code"
 title: "My first blog post"
 ---
 
