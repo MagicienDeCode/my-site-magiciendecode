@@ -39,7 +39,6 @@ word, 平仮名, hiragana, english, chinese
 渡辺, わたなべ, watanabe, (surname),
 伊藤, いとう, itou, (surname),
 小林, こばやし, kobayashi, (surname),
-中村, なかむら, nakamura, (surname),
 太郎, たろう, tarou, (given name),
 日中商事, にっちゅうしょうじ, nichiyuu shouji, 日中商社,
 本, ほん, hon, Book,
@@ -61,11 +60,9 @@ word, 平仮名, hiragana, english, chinese
 車, くるま, kuruma, Car, 汽车
 自転車, じてんしゃ, jitensha, Bicycle, 自行车
 自動車, じどうしゃ, jidousha, Automobile, 汽车
-お土産, おみやげ, omiyage, Souvenir, 特产
 名産品, めいさんひん, meisanhin, Specialty product, 名特产
 方, かた, kata, Person (polite), 位
 お客様, おきゃくさま, okyakusama, Customer, 客人
-家族, かぞく, kazoku, Family, 家庭
 これ, これ, kore, This,
 それ, それ, sore, That,
 あれ, あれ, are, That over there, 那个
@@ -102,4 +99,35 @@ word, 平仮名, hiragana, english, chinese
 金曜日, きんようび, kinyoubi, Friday, 星期五
 土曜日, どようび, doyoubi, Saturday, 星期六
 日曜日, にちようび, nichiyoubi, Sunday, 星期日
-
+部屋, へや, heya, Room, 房间
+庭, にわ, niwa, Garden, 花园
+家, いえ, ie, House, 
+居間, いま, ima, Living room, 客厅
+冷蔵庫, れいぞうこ, reizouko, Refrigerator, 冰箱
+壁, かべ, kabe, Wall, 墙
+本棚, ほんだな, hondana, Bookshelf, 书架
+ベッド, ベッド, beddo, Bed, 床
+猫, ねこ, neko, Cat, 猫
+犬, いぬ, inu, Dog, 狗
+鳥, とり, tori, Bird, 鸟
+魚, さかな, sakana, Fish, 鱼
+箱, はこ, hako, Box, 盒子
+眼鏡, めがね, megane, Glasses, 眼镜
+子供, こども, kodomo, Child, 孩子
+兄弟, きょうだい, kyoudai, Siblings, 兄弟姐妹
+両親, りょうしん, ryoushin, Parents, 父母
+男, おとこ, otoko,,
+女, おんな, onna,,
+生徒, せいと, seito, Student, 学生
+上, うえ, ue, Up, 上
+下, した, shita, Down, 下
+左, ひだり, hidari, Left, 左
+右, みぎ, migi, Right, 右
+中, なか, naka, Middle, 中
+外, そと, soto, Outside, 外
+前, まえ, mae, Front, 前
+後ろ, うしろ, ushiro, Back, 后面
+横, よこ, yoko, Side, 旁边
+御飯, ごはん, gohan, Rice, 米饭
+教室, きょうしつ, kyoushitsu, Classroom, 教室
+売店, ばいてん, baiten, Shop, 小卖部
