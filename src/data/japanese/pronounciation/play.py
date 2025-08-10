@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import platform
 import subprocess
 import time
 from wcwidth import wcswidth
@@ -56,8 +57,13 @@ if __name__ == "__main__":
         if not os.path.exists(audio_path):
             print(f"Error: Audio file not found for {first_col_value}.")
             continue
+        system = platform.system()
+        if system == "Windows":
+            ffplay_cmd = "ffplay.exe"
+        else:
+            ffplay_cmd = "ffplay"
         subprocess.run(
-            ["ffplay", "-nodisp", "-autoexit", "-loglevel", "quiet", audio_path]
+            [ffplay_cmd, "-nodisp", "-autoexit", "-loglevel", "quiet", audio_path]
         )
         time.sleep(0.5)
 
