@@ -91,7 +91,9 @@ word, 平仮名, hiragana, english, chinese
 周辺, しゅうへん, shuuhen, Surroundings, 周围
 今日, きょう, kyou, Today, 今天
 明日, あした, ashita, Tomorrow, 明天
+朝っで,　あさって, asatte, Day after tomorrow, 后天
 昨日, きのう, kinou, Yesterday, 昨天
+一昨日, おととい, ototoi, Day before yesterday, 前天
 月曜日, げつようび, getsuyoubi, Monday, 星期一
 火曜日, かようび, kayoubi, Tuesday, 星期二
 水曜日, すいようび, suiyoubi, Wednesday, 星期三
@@ -131,3 +133,33 @@ word, 平仮名, hiragana, english, chinese
 御飯, ごはん, gohan, Rice, 米饭
 教室, きょうしつ, kyoushitsu, Classroom, 教室
 売店, ばいてん, baiten, Shop, 小卖部
+先週, せんしゅう, senshuu, Last week, 上周
+今週, こんしゅう, konshuu, This week, 本周
+来週, らいしゅう, raishuu, Next week, 下周
+再来週, さらいしゅう, sarai shuu, Week after next, 下下周
+毎日, まいにち, mainichi, Every day, 每天
+毎週, まいしゅう, maishuu, Every week, 每周
+毎朝, まいあさ, maiasa, Every morning, 每天早上
+毎晩, まいばん, maiban, Every evening, 每天晚上
+午前, ごぜん, gozen, Morning, 上午
+午後, ごご, gogo, Afternoon, 下午
+今朝, けさ, kesa, This morning, 今天早上
+来年, らいねん, rainen, Next year, 明年
+去年, きょねん, kyonen, Last year, 去年
+夜, よる, yoru, Night, 夜
+昼, ひる, hiru, Daytime, 白天
+晩御飯, ばんごはん, bangohan, Dinner, 晚饭
+朝御飯, あさごはん, asagohan, Breakfast, 早餐
+昼御飯, ひるごはん, hirugohan, Lunch, 午餐
+おやつ, おやつ, oyatsu, Snack, 点心
+学校, がっこう, gakkou, School, 学校
+試験, しけん, shiken, Exam, 考试
+仕事, しごと, shigoto, Work, 工作
+遅刻, ちこく, chikoku, Late, 迟到
+休み, やすみ, yasumi, Rest, 休息
+休暇, きゅうか, kyuuka, Vacation, 假期
+研修, けんしゅう, kenshuu, Training, 培训
+展覧会, てんらんかい, tenrankai, Exhibition, 展览会
+歓迎会, かんげいかい, kangeikai, Welcome party, 欢迎会
+送別会, そうべつかい, soubetsukai, Farewell party,
+お宅, おたく, otaku, Your home, 贵宅
