@@ -35,7 +35,8 @@ for file in files:
         if os.path.exists(save_path):
             skipped += 1
             continue
-        current_hiragana = kks.convert(word)
+        result_list = kks.convert(word)
+        current_hiragana = ''.join([item['hepburn'] for item in result_list])
         tts = gTTS(text=current_hiragana, lang='ja')  # lang='ja' 表示日语
         tts.save(save_path)
         downloaded += 1
