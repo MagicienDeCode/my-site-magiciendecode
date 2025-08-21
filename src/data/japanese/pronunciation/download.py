@@ -37,7 +37,12 @@ for file in files:
             continue
         result_list = kks.convert(word)
         #print(result_list)
-        current_hiragana = ''.join([item['hepburn'] for item in result_list])
+        if file.startswith('hiragana'):
+            current_hiragana = ''.join([item['hira'] for item in result_list])
+        if file.startswith('katakana'):
+            current_hiragana = ''.join([item['kana'] for item in result_list])
+        else:
+            current_hiragana = ''.join([item['hepburn'] for item in result_list])
         tts = gTTS(text=current_hiragana, lang='ja')  # lang='ja' 表示日语
         tts.save(save_path)
         downloaded += 1
