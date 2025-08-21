@@ -36,6 +36,7 @@ for file in files:
             skipped += 1
             continue
         result_list = kks.convert(word)
+        #print(result_list)
         current_hiragana = ''.join([item['hepburn'] for item in result_list])
         tts = gTTS(text=current_hiragana, lang='ja')  # lang='ja' 表示日语
         tts.save(save_path)
