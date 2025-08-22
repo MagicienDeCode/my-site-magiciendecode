@@ -4,8 +4,18 @@ import platform
 import subprocess
 import time
 from wcwidth import wcswidth
+import json
 
-files = ['hiragana.csv', 'katakana.csv']
+config_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'config.json')
+if os.path.exists(config_path):
+    with open(config_path, "r", encoding="utf-8") as f:
+        json_date = json.load(f)
+    print("Loaded JSON:", json_date)
+else:
+    print(f"File {config_path} does not exist.")
+    exit(-1)
+
+files = json_date.get("files", [])
 # Get the current script's directory
 current_dir = os.path.dirname(os.path.abspath(__file__))
 # Get the japanese directory path (two levels up)
@@ -46,12 +56,7 @@ if __name__ == "__main__":
     dir_path = selected_file.split('.')[0]
     save_dir = os.path.join(current_dir, dir_path)
     total_rows = len(df)
-
-    skip = read_int(f"Enter the number of rows to skip (0 for no skip) max {total_rows}: ", 0, total_rows)
-
     for index, row in df.iterrows():
-        if index < skip:
-            continue
         first_col_value = row.iloc[0]  # 取第一列值
         word_display = pad_display(f"{index+1}/{total_rows} : ", 10)
         for r in row:
