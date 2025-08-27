@@ -18,6 +18,7 @@ import ChineseJson from '../../data/chinese/title.json'
 import englishJson from '../../data/english/title.json'
 import japaneseJson from '../../data/japanese/title.json'
 import codeJson from '../../data/code/title.json'
+import frenchJson from '../../data/french/title.json'
 
 import englishCultureJson from '../../data/english/culture/title.json'
 import englishGrammerJson from '../../data/english/grammer/title.json'
@@ -305,6 +306,11 @@ const Index = () => {
                   <span className="text-link">FRENCH</span>
                 </div>
               </Divider>
+              <Row>
+                <Col span={24}>
+                  <PageLink titles={frenchJson.children} />
+                </Col>
+              </Row>
               <br />
             </div>
           </Col>
